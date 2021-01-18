@@ -12,7 +12,7 @@ echo("<p class='paragr'>Hello world, my name is " . $sFirstname . "</p>");
 ?>
 <!DOCTYPE html>
 <html>
-    <head>   dsadsadsadsadsadsa
+    <head>   
         <meta charset="UTF-8">
         <title>Formulier</title>
     </head>
