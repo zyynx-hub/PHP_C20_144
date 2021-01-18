@@ -12,11 +12,11 @@ echo("<p class='paragr'>Hello world, my name is " . $sFirstname . "</p>");
 ?>
 <!DOCTYPE html>
 <html>
-    <head>
+    <head>   dsadsadsadsadsadsa
         <meta charset="UTF-8">
         <title>Formulier</title>
     </head>
-    <body>
+    <body> 
     <form method='post'>
         Voornaam:       <input type='text'      name='sFirstname'     placeholder='Voornaam'/><br/>
         Huisnummer:     <input type='number'    name='iHomenumber'    placeholder='999' min='1' max='500' /><br/>
